@@ -15,5 +15,6 @@
 
 	/* Custom Post Types */
 	/** Add custom post types in /includes/cpts/ directory thru FTP.
-	 ** Add list here, e.g.: include_once('includes/cpts/POST_TYPE_NAME_HERE-cpt.php');
+	 ** Add list here, e.g.: include_once('includes/cpts/POST_TYPE_NAME_HERE/POST_TYPE_NAME_HERE-cpt.php');
 	 **/
+	//include_once('includes/cpts/custom/custom-cpt.php);
